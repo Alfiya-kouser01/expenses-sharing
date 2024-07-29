@@ -30,5 +30,6 @@ Project Setup
 
 6. Swagger has been enables to test the apis : http://localhost:9191/swagger-ui/index.html#/
 
-   ![Uploading image.png…]()
+   ![Model](https://ibb.co/hcNxq4b)
+   ![Model](https://ibb.co/3CRvZHC)
 
